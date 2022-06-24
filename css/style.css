@@ -88,6 +88,11 @@ body{
     .col-md-12{
         width: 100%;
     }
+    .col-md-13{
+        width: 100%;
+        padding-right: 0px;
+        margin-right: 0px;
+    }
     
 }
 
@@ -167,10 +172,11 @@ h1{
     border-left: 3px solid black;
     border-bottom: 3px solid black;
     position: relative;
-    width: 33%;
-    height: 35px;
+    width: 35%;
+    height: 30px;
     float: right;
     font-family:'Courier New', Courier, monospace;
     font-size: 20px;
-    padding-left: 10px;
+    text-align: center;
+    padding-top: 5px;
 }
